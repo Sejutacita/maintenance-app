@@ -4,10 +4,10 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Maintenance</title>
-			<status>true</status>
+			<status>false</status>
 			<subtitle>Silahkan kembali lagi nanti</subtitle>
-			<description>trial</description>
-			<ending>tes1</ending>
+			<description>trial2 harusnya false</description>
+			<ending>trial2</ending>
 		</item>
 	</channel>
 </rss>
