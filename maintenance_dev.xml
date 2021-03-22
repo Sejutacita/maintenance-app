@@ -4,9 +4,9 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Aplikasi sedang dalam maintenance</title>
-			<status>true</status>
+			<status>false</status>
 			<subtitle>Mohon menunggu</subtitle>
-			<description>23.00 - 03.00 WIB</description>
+			<description>23.00</description>
 			<ending>Maintenance telah selesai</ending>
 		</item>
 	</channel>
