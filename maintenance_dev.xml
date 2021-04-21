@@ -3,11 +3,11 @@
 	<channel>
 		<title>Sejutacita - Maintenance</title>
 		<item>
-			<title>Aplikasi sedang dalam maintenance</title>
-			<status>false</status>
-			<subtitle>Aplikasi sedang dalam maintenance</subtitle>
-			<description>SejutaCita sedang melakukan maintenance rutin, nih. Tenang, kamu bisa menggunakan SejutaCita lagi setelah jam 15.00 hari ini, ya.</description>
-			<ending> Terima kasih teman-teman.</ending>
+			<title>Weekly Maintenance</title>
+			<status>true</status>
+			<subtitle>Silakan kembali lagi nanti</subtitle>
+			<description>Ya pokoknya balik lagi aja nanti</description>
+			<ending>Gak usah bolak balik buka app dah</ending>
 		</item>
 	</channel>
 </rss>
