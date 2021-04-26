@@ -4,10 +4,10 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Weekly Maintenance</title>
-			<status>true</status>
+			<status>false</status>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
-			<description>Ditunggu aja</description>
-			<ending>Gak usah bolak balik buka app</ending>
+			<description>mau coba turn off maintenance tapi gabisa</description>
+			<ending>coba</ending>
 		</item>
 	</channel>
 </rss>
