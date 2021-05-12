@@ -4,9 +4,9 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Maintenance</title>
-			<status>false</status>
+			<status>true</status>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
-			<description>SejutaCita sedang melakukan maintenance rutin, nih. Tenang, kamu bisa menggunakan SejutaCita lagi setelah jam 20.00 WIB hari ini, ya.</description>
+			<description>SejutaCita sedang melakukan maintenance rutin, nih. Tenang, kamu bisa menggunakan SejutaCita lagi setelah jam 24.00 WIB hari ini, ya.</description>
 			<ending>Terima kasih teman-teman.</ending>
 		</item>
 	</channel>
