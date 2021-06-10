@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>Sejutacita - Maintenance</title>
+		<item>
+			<title>Weekly Maintenance</title>
+			<status>false</status>
+			<subtitle>Silakan kembali lagi nanti</subtitle>
+			<description>mau coba turn off maintenance tapi gabisa</description>
+			<ending>coba</ending>
+		</item>
+	</channel>
+</rss>
