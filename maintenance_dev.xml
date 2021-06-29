@@ -3,11 +3,11 @@
 	<channel>
 		<title>Sejutacita - Maintenance</title>
 		<item>
-			<title>Weekly Maintenance</title>
-			<status>false</status>
+			<title>Maintenance</title>
+			<status>true</status>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
-			<description>mau coba turn off maintenance tapi gabisa</description>
-			<ending>coba</ending>
+			<description>SejutaCita sedang melakukan maintenance rutin, nih. Tenang, kamu bisa menggunakan SejutaCita lagi setelah jam 23.00 WIB hari ini, ya.</description>
+			<ending>Terima kasih teman-teman.</ending>
 		</item>
 	</channel>
 </rss>
