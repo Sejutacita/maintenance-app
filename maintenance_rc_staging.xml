@@ -3,10 +3,10 @@
 	<channel>
 		<title>Sejutacita - Maintenance</title>
 		<item>
-			<title>Maintenance</title>
+			<title>Silakan kembali lagi nanti</title>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
-			<description>SejutaCita sedang melakukan maintenance rutin, nih. Tenang, kamu bisa menggunakan SejutaCita lagi setelah jam 23.00 WIB hari ini, ya.</description>
-			<ending>Terima kasih teman-teman.</ending>
+			<description>Hai PejuangCita, terima kasih atas kesabaran kamu menunggu. Saat ini traffic server kami sedang tinggi, silakan kembali dalam 5 menit untuk penggunaan aplikasi yang maksimal.</description>
+			<ending>Sampai jumpa!</ending>
 		</item>
 	</channel>
 </rss>
