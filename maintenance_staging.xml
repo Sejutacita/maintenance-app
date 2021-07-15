@@ -4,7 +4,7 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Weekly Maintenance</title>
-			<status>false</status>
+			<status>true</status>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
 			<description>mau coba turn off maintenance tapi gabisa</description>
 			<ending>coba</ending>
