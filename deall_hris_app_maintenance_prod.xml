@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+	<channel>
+		<title>Deall HRIS - Maintenance</title>
+		<item>
+			<title>Maintenance</title>
+			<status>false</status>
+			<subtitle>Please come back later</subtitle>
+			<description_en>Deall app is under maintenance, please try again later :D</description_en>
+			<description_id>Deall app is under maintenance, please try again later :D</description_id>
+			<ending>Thank you.</ending>
+		</item>
+	</channel>
+</rss>
