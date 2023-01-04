@@ -4,7 +4,7 @@
 		<title>Deall HRIS - Maintenance</title>
 		<item>
 			<title>Maintenance</title>
-			<status>false</status>
+			<status>true</status>
 			<subtitle>Please come back later</subtitle>
 			<description_en>Smoothen your in-app experience and eliminate any bugs in the system.</description_en>
 			<description_id>Meningkatkan performa dan pengalaman selama penggunaan aplikasi.</description_id>
