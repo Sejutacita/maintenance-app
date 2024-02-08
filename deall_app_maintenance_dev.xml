@@ -4,7 +4,7 @@
 		<title>Deall - Maintenance</title>
 		<item>
 			<title>Maintenance</title>
-			<status>false</status>
+			<status>true</status>
 			<subtitle>Please come back later</subtitle>
 			<description>Deall app is under maintenance, please try again later :D</description>
 			<ending>Thank you.</ending>
