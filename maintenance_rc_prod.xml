@@ -4,6 +4,7 @@
 		<title>Sejutacita - Maintenance</title>
 		<item>
 			<title>Silakan kembali lagi nanti</title>
+			<status>true</status>
 			<subtitle>Silakan kembali lagi nanti</subtitle>
 			<description>Hai PejuangCita, terima kasih atas kesabaran kamu menunggu. Saat ini traffic server kami sedang tinggi, silakan kembali dalam 5 menit untuk penggunaan aplikasi yang maksimal. Untuk PejuangCita yang ingin mengunjungi FMBPI silakan langsung membuka sejutacita.id/login.</description>
 			<ending>Sampai jumpa!</ending>
